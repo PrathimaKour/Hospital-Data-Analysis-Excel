@@ -1,0 +1,17 @@
+## Business Questions Solved
+
+- Analyzed total patients and medical expenses
+- Compared doctors availability with patient load
+- Identified top-performing departments and hospitals
+- Evaluated city-wise healthcare expenses
+- Tracked monthly medical expense trends
+- Measured average patient stay duration
+
+| Visual                    | Business Question                                  |
+| ------------------------- | -------------------------------------------------- |
+| KPI Cards                 | Overall hospital performance metrics               |
+| Doctors vs Patients       | Are departments adequately staffed?                |
+| Department Patients Donut | Which departments treat most patients?             |
+| Expenses by City          | Which cities generate highest healthcare expenses? |
+| Expenses by Hospital      | Which hospitals incur highest operational costs?   |
+| Monthly Trend             | How do expenses fluctuate month-by-month?          |
